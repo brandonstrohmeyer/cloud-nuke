@@ -1,0 +1,4 @@
+VPC:
+  exclude:
+    names_regex:
+      - "^.*atlantis.*"
